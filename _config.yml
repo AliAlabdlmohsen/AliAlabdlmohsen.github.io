@@ -3,7 +3,7 @@ permalink:           pretty
 
 # Setup
 title:               Ali Alabdlmohsen
-tagline:             A Moderately Okay Data Science Blog
+tagline:             Data Science Blog
 url:                 http://AliAlabdlmohsen.github.io
 paginate:            2
 baseurl:             ""
@@ -18,7 +18,7 @@ sass:
 # About/contact
 author:
   name:              Ali Alabdlmohsen
-  url:               
+  url:               http://AliAlabdlmohsen.github.io
   email:             a.alabdlmohsen@gmail.com
 
 # Custom vars
